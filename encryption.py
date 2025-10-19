@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import sys
     
 def main():
@@ -74,3 +75,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+
+>>>>>>> 12b4066a2408e8825f5459ad0f15f365a88935af
